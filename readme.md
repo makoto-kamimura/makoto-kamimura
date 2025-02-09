@@ -27,7 +27,7 @@
 ## 📫 Contact Me
 - 📧 Email:  
 - 💼 LinkedIn:  
-- 🌐 Portfolio: [Teck Stock Site](https://makoto-kamimura.com/)
+- 🌐 Portfolio:
 
 ---
 
