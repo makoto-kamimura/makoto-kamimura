@@ -1,7 +1,7 @@
 # 📘 My Dev Memo: A Single-Task Engineer's Journal  
 
 ## 🚀 About Me
-- 🔭 Freelance Full Stack Engineer / DevOps Specialist
+- 🔭 Full Stack Engineer / DevOps Specialist
 - 🌱 Currently Exploring: LLMOps and advanced backend solutions
 - 📍 Base of Operation: Camping Grounds — Remote-friendly 🌲
 - 🏆 Unique Value: Efficient in creating robust and scalable systems with minimal dependencies, ideal for network-limited environments
