@@ -1,10 +1,10 @@
 # 📘 My Dev Memo: A Single-Task Engineer's Journal  
 
 ## 🚀 About Me
-- 🔭 Full Stack Engineer = Individual SIer.
-- 🌱 Learning: LLMOps
-- 📍 Based in: Camping-ground
-- 🏆 Fun Fact: Actually, what I am looking for is a network-free environment.
+- 🔭 Freelance Full Stack Engineer / DevOps Specialist
+- 🌱 Currently Exploring: LLMOps and advanced backend solutions
+- 📍 Base of Operation: Camping Grounds — Remote-friendly 🌲
+- 🏆 Unique Value: Efficient in creating robust and scalable systems with minimal dependencies, ideal for network-limited environments
 
 ---
 
@@ -25,8 +25,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)  
+- 📧 Email:  
+- 💼 LinkedIn:  
 - 🌐 Portfolio: [Teck Stock Site](https://makoto-kamimura.com/)
 
 ---
