@@ -1,9 +1,3 @@
-# 📓 Dev Memo — A Single-Task Engineer's Journal
-
-> ここは基本的に**備忘録**です。  
-> シングルタスクエンジニアが、目の前のひとつを片付けるたびに書き残していく場所。  
-> *A single-task engineer's notebook — one task at a time, written down so future me doesn't have to remember.*
-
 ---
 
 ## 私について / About Me
