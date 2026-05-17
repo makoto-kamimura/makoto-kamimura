@@ -1,36 +1,80 @@
-# 📘 My Dev Memo: A Single-Task Engineer's Journal  
+# こんにちは、Makoto Kamimura です
 
-## 🚀 About Me
-- 🔭 Full Stack Engineer / DevOps Specialist
-- 🌱 Currently Exploring: LLMOps and advanced backend solutions
-- 📍 Base of Operation: Camping Grounds — Remote-friendly 🌲
-- 🏆 Unique Value: Efficient in creating robust and scalable systems with minimal dependencies, ideal for network-limited environments
+Web アプリケーション開発と DevOps を軸に、最近は LLM を活用したアプリケーション（LLMOps）や脆弱性診断ツールの自作などに取り組んでいます。
+Docker でローカル完結する開発環境を整えるのが好きで、ネットワーク制約のある環境でも動くシステム設計を得意としています。
 
 ---
 
-## 💻 Skills
-- Programming Languages:
-- **![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white),![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white),![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)**  
-- Libraries:
-- **![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white),![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)**
-- Frameworks:
-- **![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white),![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white),![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB),![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)**
-- DevOps & Cloud:
-- **![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white),![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white),![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white),![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)**  
-- Databases:
-- **![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white),![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white),![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white),![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)**  
-- Others:
-- **![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white),![REST](https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white),![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)**
+## 私について
+
+- フルスタックエンジニア / DevOps
+- 現在の関心領域: **LLMOps**, **セキュリティ自動化**, **ローカル完結のコンテナ環境**
+- 開発スタイル: Docker で再現性を担保し、最小依存で堅牢に動かす
+- 拠点: リモート中心（時々キャンプ場から）
 
 ---
 
-## 📫 Contact Me
-- 📧 Email:  
-- 💼 LinkedIn:  
-- 🌐 Portfolio:
+## 技術スタック
+
+**言語**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**フレームワーク / ライブラリ**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**インフラ / DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**データベース**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI / LLM**
+
+![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
-## 🎨 Fun Extras
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
+## 最近やっていること
 
+- LLM を活用した業務アプリの試作（Dify / Django ベース）
+- 脆弱性診断を自動化するツールの開発（Nikto などをラップした Web UI）
+- 在庫管理・販売管理・財務シートなど、業務系アプリの Docker テンプレート整備
+
+---
+
+## GitHub Stats
+
+![Makoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=makoto-kamimura&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makoto-kamimura&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Links
+
+- Portfolio: <https://github.com/makoto-kamimura>
+
+![Profile Views](https://komarev.com/ghpvc/?username=makoto-kamimura&color=brightgreen)
