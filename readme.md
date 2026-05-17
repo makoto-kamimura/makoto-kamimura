@@ -65,7 +65,8 @@
 
 - 🤖 LLM を活用した業務アプリの試作（Dify / Django ベース）
 - 🛡️ 脆弱性診断を自動化するツールの開発（Nikto などをラップした Web UI）
-- 📊 在庫管理・販売管理・財務シートなど、業務系アプリの Docker テンプレート整備
+- 📊 備品管理・販売管理・財務シートなど、業務系アプリの Docker テンプレート整備
+- 備品管理:<https://github.com/makoto-kamimura/docker_inventory_management>
 - 📝 「次に同じことをやる自分」のための備忘録リポジトリの蓄積
 
 ---
